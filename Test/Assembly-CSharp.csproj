@@ -36,6 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scenes\Test3.cs" />
      <Compile Include="Assets\Test1.cs" />
      <Compile Include="Assets\Test2.cs" />
     <Reference Include="UnityEngine">
